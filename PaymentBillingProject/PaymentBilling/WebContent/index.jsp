@@ -12,7 +12,7 @@
 			
 				<div id="logo">
 					<h1>
-						Payment Billing System WITH CHANGE
+						Payment Billing System
 					</h1>
 				</div>	
 		</div>
